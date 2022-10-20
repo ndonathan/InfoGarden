@@ -1,3 +1,5 @@
-VS Code
-Powershell
-Obsidian
+## Dev 
+* VS Code
+* Powershell
+## Knowledge Retention
+* Obsidian
